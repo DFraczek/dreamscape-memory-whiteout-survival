@@ -1,0 +1,37 @@
+Flower Pot | 1393,634
+Spider Web | 1309,317
+Crescent Moon | 1078,1081
+Bucket | 1341,848
+Stool | 1298,617
+Corn | 1489,557
+Ladder | 1324,481
+Mouse | 1110,316
+Chili Peppers | 1390,553
+Sunflower | 1067,622
+Rice Bag | 1257,644
+Blackboard | 1481,425
+Five Pointed Star | 1136,585
+Snowman | 1135,479
+Scythe | 1333,658
+Pumpkin | 1350,722
+Strawberries | 1073,702
+Broom | 1198,587
+Shovel | 1349,626
+Cart | 1232,487
+Curtain | 1275,414
+Thermometer | 1416,446
+Sun | 1371,499
+Birdcage | 1205,282
+Dirt Pit | 1215,686
+Watermelon | 1146,706
+Scarecrow | 1369,430
+Bug Net | 1442,514
+Arrow Sign | 1120,413
+Straw | 1505,648
+Scarf | 1188,455
+Watering Can | 1408,666
+Grapes | 1279,537
+Chest | 1161,833
+Tomatoes | 1452,725
+Footprints | 1167,626
+Eggplants | 1285,752

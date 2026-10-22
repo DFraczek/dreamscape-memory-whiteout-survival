@@ -1,0 +1,38 @@
+Star | 1181,908
+Dragonfly | 1248,820
+Headwear | 1283,744
+Sunflower | 1468,1084
+Bench | 991,710
+Camera | 1103,807
+Squirrel | 1523,719
+Scroll | 1015,909
+Harp | 1026,1039
+Ball | 1013,854
+Butterfly | 1122,999
+Book | 1181,1048
+Scarf | 1299,870
+Bucket | 1360,977
+Giant Elk | 1340,518
+Suitcase | 1238,678
+Flag Garland | 1254,256
+Statue | 1017,437
+Hand Shovel | 1460,972
+Apple | 1406,833
+Four Leaf Clover | 1533,383
+Kite | 1311,291
+Fishing Net | 1503,860
+Pos | 551,432
+Heart | 1262,488
+Music Note | 1062,649
+Easel | 1430,690
+Arrow Sign | 1212,661
+Basket | 1506,794
+Patio Umbrella | 1006,598
+Ladder | 1151,587
+Glider | 1536,305
+Z | 1339,582
+Meteorite | 1083,312
+Crescent | 1008,781
+Horse | 1104,693
+Ferris Wheel | 1524,457
+4 Wheel Cart | 1389,605

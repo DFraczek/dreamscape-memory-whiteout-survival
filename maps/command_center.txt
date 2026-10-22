@@ -1,0 +1,37 @@
+Stamp | 1149,982
+Horn | 1225,707
+Hook | 1242,326
+Badge | 1026,431
+Globe | 1427,629
+Gramophone | 1007,641
+Coat | 1261,553
+Gold Coins | 1174,757
+Saber tooth Tiger | 1438,303
+Newspaper | 1060,972
+Spider | 1132,335
+Pillbox | 1291,785
+Key | 1450,758
+Rifle | 1333,598
+Pocket Watch | 1257,980
+Mug | 1506,687
+Footprints | 1457,537
+Briefcase | 1448,1051
+Mop | 1181,643
+Paper Ball | 1215,819
+Camera | 1095,704
+Picture Frame | 1324,444
+Scroll | 1402,748
+Goggles | 1301,830
+Hourglass | 1156,690
+Trophy | 1017,737
+Cat | 1341,654
+Hot Air Balloon | 1513,466
+Typewriter | 1084,639
+Wall Light | 1432,435
+Z | 1345,226
+Cannon | 1384,824
+Binoculars | 1468,890
+Water Stain | 1352,731
+U | 1249,432
+Exhaust Fan | 1190,336
+Birdcage | 1296,359

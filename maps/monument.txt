@@ -1,0 +1,37 @@
+Boots | 1239,1089
+Snowboard | 1185,909
+Flower Vase | 1493,969
+Scarf | 1141,1020
+Watering Can | 1382,933
+Airship | 1090,418
+Lift | 1269,478
+Snowman | 1022,803
+Toolbox | 1422,857
+Broom | 1399,789
+Statue | 1385,672
+Blanket | 1049,728
+Footprints | 1353,1089
+Sign Post | 1472,727
+Satchel | 1049,964
+Wind Chime | 1426,536
+Bucket | 1192,985
+Shovel | 1078,885
+Ladder | 1075,586
+Feather | 1403,1033
+Wood Pile | 1475,803
+Cart | 1292,799
+Headwear | 969,860
+Gloves | 1125,1075
+Manhole Cover | 1301,987
+Wristwatch | 1068,1065
+Z | 1310,714
+Pruning Shears | 1197,736
+Basket | 1093,822
+Exclamation Mark | 1367,536
+Kite | 1059,292
+Lightning | 1167,334
+Streetlight | 1025,613
+Wrench | 1271,925
+Dustpan | 1473,1062
+A | 1162,204
+Iron Axe | 1180,803

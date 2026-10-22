@@ -1,0 +1,8 @@
+@'
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.png
+collect_words.txt
+'@ | Set-Content -Encoding utf8 ".gitignore"

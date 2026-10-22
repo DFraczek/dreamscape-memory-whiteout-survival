@@ -1,0 +1,5 @@
+@'
+Pillow
+PyAutoGUI
+pytesseract
+'@ | Set-Content -Encoding utf8 "requirements.txt"

@@ -1,0 +1,37 @@
+Bedroll | 1232,892
+Tulips | 1420,749
+Compass | 1190,1127
+Backpack | 1072,936
+Horse | 990,853
+Butterfly | 1392,843
+Tent | 979,505
+Scroll | 1249,778
+Gloves | 1216,1069
+Book | 1040,995
+Flare | 1118,305
+Mounted Lion Head | 1288,650
+Scarf | 1516,643
+Water Bag | 1174,766
+Barrel | 1555,1030
+Spiked Flail | 1177,989
+Handgun | 1336,1101
+Canned Food | 1304,855
+Crown | 1446,601
+Goggles | 1474,956
+Horn | 1032,1053
+Apple | 1030,748
+Headwear | 1256,976
+Pouch | 1546,942
+Boomerang | 1303,808
+Telescope | 1350,935
+Kite | 1466,380
+Clock Tower | 1225,422
+Mushroom | 1436,1040
+Poster | 1442,671
+Beast Trap | 1290,1028
+Flame | 1311,457
+Snowman | 1347,763
+Pine Tree | 1089,1110
+Air Drop | 1485,318
+Glass Bottle | 1261,735
+Axe | 1199,801

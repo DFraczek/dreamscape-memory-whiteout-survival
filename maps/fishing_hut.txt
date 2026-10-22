@@ -1,0 +1,37 @@
+Anchor | 1275,731
+Paper Crane | 1520,836
+Lifebuoy | 1452,749
+Pulley Crane | 1561,472
+Bench | 1122,674
+7 | 1094,438
+Lighthouse | 1444,481
+Number Plate | 1165,583
+Paw Mark | 1442,247
+Mermaid | 1008,522
+Searchlight | 1046,611
+Chimney | 1346,441
+Sea Turtle | 1195,854
+Mailbox | 1202,642
+Snowman | 966,785
+Oxygen Tank | 1022,857
+Exhaust Fan | 1382,596
+Kite | 1173,300
+Sea Urchin | 1265,1093
+Shrimp | 1358,1047
+Basket | 1003,932
+Vines | 1010,389
+Bell | 1193,473
+Trident | 1025,1083
+Chain | 1311,852
+Oar | 1163,823
+Ice Skates | 1120,896
+Tent | 1516,644
+Starfish | 1518,896
+Shell | 1237,1047
+Sea Cucumber | 1455,1055
+Dog | 1376,742
+Corn | 1152,1113
+Swordfish | 1458,645
+Canned Food | 1503,986
+Z | 1313,787
+Pipe | 1087,545
