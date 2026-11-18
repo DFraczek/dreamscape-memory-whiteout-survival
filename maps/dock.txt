@@ -1,0 +1,39 @@
+Drifting Bottle | 1036,675
+Whale | 1057,519
+Fishing Net | 1393,651
+Window | 1425,246
+Pulley Crane | 1335,350
+Lifebuoy | 1196,593
+Oar | 1388,592
+Ship Wheel | 1118,440
+Sea Turtle | 1041,580
+Z | 1379,249
+umes Gp | 909,935
+Bench | 1195,508
+Potatoes | 1080,747
+Pouch | 1504,547
+Exhaust Pipe | 990,422
+Backpack | 1375,509
+Patio Umbrella | 1284,422
+Jar | 1548,597
+Trident | 1478,493
+Banner | 1047,406
+Submarine | 1154,377
+Exhaust Fan | 1527,241
+Plane | 1005,182
+Fishing Rod | 1168,549
+Balloon | 1286,202
+Oxygen Tank | 1224,627
+Volleyball | 1102,626
+Seagulls | 1224,259
+Sailboat | 978,341
+Lighthouse | 1071,290
+Cat | 1290,620
+Diner Sign | 1441,369
+Seahorse | 1457,455
+Steak | 1558,513
+Patch | 1561,442
+Octopus | 1168,740
+Pumpkin | 998,721
+Hot Air Balloon | 1287,191
+a | -371,-61
