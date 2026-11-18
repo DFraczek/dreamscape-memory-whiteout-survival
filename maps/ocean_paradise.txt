@@ -1,0 +1,40 @@
+Headwear | 1204,707
+Toy Soldier | 1182,603
+Popcorn | 1054,973
+Flag Garland | 1309,399
+Sun | 1166,506
+Cat | 1224,655
+Snowboard | 1447,587
+Toy Car | 1143,999
+Ice Skates | 1144,867
+Toy Hammer | 1448,471
+Basket | 1531,654
+Pine Tree | 1509,404
+Dolphin | 1413,766
+Fire Extinguisher | 1344,507
+Goggles | 1099,452
+Bubbles | 994,487
+Plane | 1278,218
+Megaphone | 1208,370
+Lighthouse | 1126,222
+Teddy Bear | 1527,761
+Airship | 1376,257
+Balloons | 1512,487
+Stain | 1383,627
+Patio Umbrella | 1345,314
+Hot Air Balloon | 1216,277
+Wooden Horse | 1288,786
+Gift Box | 1515,879
+Earmuffs | 1100,732
+Satchel | 1437,831
+Pigeon | 1048,271
+Seat Cushion | 1427,713
+Canteen | 1239,923
+Cave | 1103,352
+Extinguisher | 1343,516
+Soldier | 1182,583
+Arrow Sign | 1001,376
+Rubber Duck | 1316,949
+Ferris Wheel | 1387,520
+lifebuoy | 777,1082
+sailboat | -365,-62
