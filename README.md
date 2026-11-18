@@ -55,6 +55,11 @@ python main.py
 The script waits five seconds before starting. Press `F8` or `Ctrl+C` to stop
 it.
 
+If OCR detects a word that is not in the selected map, the script reports the
+missing word and waits for a mouse click on the word's location. The clicked
+coordinates are appended to the active map file and become available
+immediately.
+
 ## Collecting word coordinates
 
 Run:

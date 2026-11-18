@@ -1,0 +1,41 @@
+Umbrella | 1471,421
+Cello | 1086,534
+Boots | 1482,678
+Globe | 1210,533
+Carpet Roll | 1003,824
+Coat | 1433,372
+Mask | 1168,943
+Bear | 1326,352
+Horn | 1062,338
+Key | 1216,1064
+Quill | 1104,1052
+8 | 1094,406
+Pearl Necklace | 1268,800
+Notebook | 1404,1096
+Crown | 1388,713
+Magnifier | 1056,1005
+Backpack | 955,716
+Sailboat | 1363,499
+Water Stain | 1357,602
+Scroll | 1483,1070
+Fish | 1274,248
+Crack | 1126,354
+Stone Bench | 1265,451
+Suitcase | 1461,585
+Gun | -279,1167
+Music Stand | 1273,538
+Lion Statue | 1078,650
+Shield | 986,965
+Barrel | 1003,564
+Three Leaf Clover | 1369,824
+Gloves | 1136,733
+Map | 1303,671
+Goggles | 1290,1091
+3 | 1458,514
+Z | 1458,514
+Gramophone | 1142,558
+Wood Pile | 1536,409
+Rose | 1056,839
+Mirror | 1257,342
+
+

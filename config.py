@@ -1,0 +1,35 @@
+OCR_REGION = (887, 1208, 746, 172)
+
+TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+TESSERACT_CONFIG = "--oem 3 --psm 6"
+IMAGE_SCALE = 3
+
+STOP_KEY_CODE = 0x77  # F8
+LEFT_MOUSE_KEY_CODE = 0x01
+
+ACTIVE_WORDS_FILE = "maps/dock.txt"
+MIN_NEW_WORD_LENGTH = 1
+
+LOG_EVERY_SECONDS = 0.6
+CLICK_COOLDOWN_SECONDS = 1
+TARGET_CLICK_DELAY_SECONDS = 0.4  # 1.0 - slow, 0.4 - normal, 0.001 - fast
+START_DELAY_SECONDS = 5
+IDLE_SLEEP_SECONDS = 0.05
+BETWEEN_CLICKS_SECONDS = 0.04
+AFTER_ADD_WORD_SECONDS = 0.15
+
+BUTTON_SLOTS = [
+    ("gora_lewa", 0, 0, 249, 86),
+    ("gora_srodek", 249, 0, 498, 86),
+    ("gora_prawa", 498, 0, 746, 86),
+    ("dol_lewa", 0, 86, 249, 172),
+    ("dol_srodek", 249, 86, 498, 172),
+    ("dol_prawa", 498, 86, 746, 172),
+]
+
+BUTTON_COLOR = (101, 115, 191)
+BUTTON_COLOR_TOLERANCE = 25
+SLOT_MIN_FILL = 0.40
+MIN_SLOTS_PRESENT = 3
+PRESENCE_DOWNSCALE = 4
+DEBUG_PRESENCE = False
